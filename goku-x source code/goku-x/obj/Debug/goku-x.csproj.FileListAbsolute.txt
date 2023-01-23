@@ -1,0 +1,13 @@
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\bin\Debug\goku-x.exe.config
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\bin\Debug\goku-x.exe
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\bin\Debug\goku-x.pdb
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\bin\Debug\sxlib.dll
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.csproj.AssemblyReference.cache
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku_x.Form1.resources
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku_x.Properties.Resources.resources
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.csproj.GenerateResource.cache
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.csproj.CoreCompileInputs.cache
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.csproj.CopyComplete
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.exe
+C:\Users\hecha\Desktop\VSC\goku-x\goku-x\obj\Debug\goku-x.pdb
